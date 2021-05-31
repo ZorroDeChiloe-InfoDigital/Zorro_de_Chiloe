@@ -1,9 +1,9 @@
 # Zorro de Chiloé
-## Infografía Digital 2021-1 
+Infografía Digital 2021-1 
 
-#### Organización
+## Organización
 
-##### Integrantes 
+### Integrantes 
 
 * [**Cristian Risco**](https://github.com/BlancaCobs)
 
