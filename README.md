@@ -5,18 +5,14 @@ Infografía Digital 2021-1
 ## Organización
 
 ### Integrantes 
-
-* [**Marcos Fernández**](https://github.com/marcosfernandezr)
-* [**Rosario González**](https://github.com/rosariogonzalez )
-* [**Agustina González**](https://github.com/agugopa)
-* [**Cristian Risco**](https://github.com/cristianrisco)
-* [**Elisa Román**](https://github.com/elisaromanf )
+* [**Marcos Fernández**](https://github.com/marcosfernandezr): Área Programación
+* [**Rosario González**](https://github.com/rosariogonzalez ): Área Investigativa 
+* [**Agustina González**](https://github.com/agugopa): Área Ilustración
+* [**Cristian Risco**](https://github.com/cristianrisco): Área Ilustración y Programación (animaciones)
+* [**Elisa Román**](https://github.com/elisaromanf ): Área Investigativa
 
 ### ¿Qué es un zorro de Chiloé?
-
-
-Los **terafósidos** (**Theraphosidae**, del griego thera ‘animal salvaje, bestia’ + phos ‘luz’) son una familia de arañas migalomorfas propias de los países tropicales. En los países hispanohablantes de América se las conoce como tarántulas y **arañas pollito**, al igual que a los miembros de la familia Dipluridae. Sin embargo no deben confundirse con las tarántulas del «Viejo Mundo», que encuadran en una familia muy diferente (Lycosidae), a partir de las cuales se originó el nombre tarántula. --> Sacado de [Wikipedia](https://es.wikipedia.org/wiki/Theraphosidae).
-
+Lycalopex fulvipes es el nombre científico del zorro de Chiloé, siendo este del reino de los mamíferos carnívoros, proveniente de la familia de los Canidae, actualmente en peligro de extinción. 
 
 ### Base de datos para investigación 📖
 
