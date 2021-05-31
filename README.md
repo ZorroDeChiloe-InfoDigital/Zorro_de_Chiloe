@@ -1,11 +1,16 @@
 # Zorro de Chiloé
 Infografía Digital 2021-1 
 
+
 ## Organización
 
 ### Integrantes 
 
-* [**Cristian Risco**](https://github.com/BlancaCobs)
+* [**Marcos Fernández**](https://github.com/marcosfernandezr)
+* [**Rosario González**](https://github.com/rosariogonzalez )
+* [**Agustina González**](https://github.com/agugopa)
+* [**Cristian Risco**](https://github.com/cristianrisco)
+* [**Elisa Román**](https://github.com/elisaromanf )
 
 ### ¿Qué es un zorro de Chiloé?
 
