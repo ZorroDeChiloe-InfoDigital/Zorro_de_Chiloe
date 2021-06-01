@@ -25,6 +25,4 @@ Lycalopex fulvipes es el nombre científico del zorro de Chiloé, siendo este de
 **Infografías**
 * [Assessing Australia’s “ecological disaster”](https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-WILDLIFE/0100B5672VM/index.html)
 * [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html)
-* [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html)
-*
-*
+* [Coconut harvesters or slaves?](https://multimedia.scmp.com/infographics/news/world/article/3094954/coconut-harvest/index.html)
