@@ -14,9 +14,9 @@ Infografía Digital 2021-1
 ### ¿Qué es un zorro de Chiloé?
 Lycalopex fulvipes es el nombre científico del zorro de Chiloé, siendo este del reino de los mamíferos carnívoros, proveniente de la familia de los Canidae, actualmente en peligro de extinción. 
 
-### Base de datos para investigación 📖
+**Base de datos para investigación**
 
-*
+* [Los carnívoros de Chile](http://www.florayfauna.cl/muestras%20libros/muestraCarnivoros.pdf). Iriarte & Jaksic
 *
 *
 *
@@ -24,8 +24,7 @@ Lycalopex fulvipes es el nombre científico del zorro de Chiloé, siendo este de
 *
 
 **Infografías**
-
-*
+* 
 *
 *
 *
