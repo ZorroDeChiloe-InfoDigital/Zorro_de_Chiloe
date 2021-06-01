@@ -16,16 +16,15 @@ Lycalopex fulvipes es el nombre científico del zorro de Chiloé, siendo este de
 
 **Base de datos para investigación**
 
-* [Los carnívoros de Chile](http://www.florayfauna.cl/muestras%20libros/muestraCarnivoros.pdf). Iriarte & Jaksic
-*
-*
-*
-*
-*
+* [Los carnívoros de Chile](http://www.florayfauna.cl/muestras%20libros/muestraCarnivoros.pdf)
+* [Medidas corporales del zorro de darwin (lycalopex fulvipes)](http://cybertesis.uach.cl/tesis/uach/2015/fvc114m/doc/fvc114m.pdf)
+* [Inventario nacional de especies de Chile](http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/ficha_indepen.aspx?EspecieId=16&Version=1)
+* [Biodiversidad y Ecología de los Bosques Costeros de Chile](http://jaimeejimenez.mallaproducciones.com/wp-content/uploads/2020/09/chapter18.pdf)
+* [Evaluación del nicho ambiental de Lycalopex fulvipes (zorro de Darwin) y la incidencia del cambio climático sobre su distribución geográfica](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-65382018000100065)
 
 **Infografías**
-* 
-*
-*
+* [Assessing Australia’s “ecological disaster”](https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-WILDLIFE/0100B5672VM/index.html)
+* [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html)
+* [China’s wildlife trade](https://multimedia.scmp.com/infographics/news/china/article/3064927/wildlife-ban/index.html)
 *
 *
