@@ -1,5 +1,13 @@
 $(document).ready(function(){
-    $(this).mouseenter(function(){
-      alert("Has seleccionado un bloque de texto");
-    });
-  });
+
+    var anatomia=$("#anatomiasvg")
+  
+    anatomia.mouseenter(function(){
+
+        $(this).fadeTo("fast", 0);
+      });
+    
+    anatomia.mouseleave(function(){
+        $(this).fadeTo("fast", 1);
+      });
+    })
