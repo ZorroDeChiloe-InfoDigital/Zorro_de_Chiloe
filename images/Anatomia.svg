@@ -15,11 +15,9 @@
 </g>
 <g id="Imágen">
 	
-		<image style="overflow:visible;" width="2732" height="2048" src="img/Zorro1.png"  transform="matrix(0.6415 0 0 0.6415 83.6963 89.2553)">
-	</image>
+		<img style="overflow:visible;" width="2732" height="2048" src="img/Zorro1.png"  transform="matrix(0.6415 0 0 0.6415 83.6963 89.2553)">
 	
 		<image style="overflow:visible;" width="2732" height="2048" src="img/Zorro1.png"  transform="matrix(0.6415 0 0 0.6415 83.6963 89.2553)">
-	</image>
 </g>
 <g id="Huesos">
 	<path class="st2" d="M1349.43,568.34c-0.81-4.79-8.26-2.36-10.64-11.55s6.55-8.53,7.57-13.98c1.02-5.45-24.27-59.12-49.06-74.11
