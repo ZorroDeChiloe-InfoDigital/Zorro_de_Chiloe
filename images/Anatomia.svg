@@ -12,10 +12,10 @@
 </style>
 <g id="Imágen">
 	
-		<image style="overflow:visible;" width="2732" height="2048" img scr="img/Zorro1.png"  transform="matrix(0.6415 0 0 0.6415 83.6963 89.2553)">
+		<image style="overflow:visible;" width="2732" height="2048" scr="img/Zorro1.png"  transform="matrix(0.6415 0 0 0.6415 83.6963 89.2553)">
 	</image>
 	
-		<image style="overflow:visible;" width="2732" height="2048" img scr="img/Zorro1.png" transform="matrix(0.6415 0 0 0.6415 83.6963 89.2553)">
+		<image style="overflow:visible;" width="2732" height="2048" scr="img/Zorro1.png" transform="matrix(0.6415 0 0 0.6415 83.6963 89.2553)">
 	</image>
 </g>
 <g id="Huesos">
