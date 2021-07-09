@@ -46,12 +46,12 @@ small, svg{
 header{
 	min-height: 500px;
 	height: 100vh;
-	background: transparent url(images/bg-header.png) no-repeat center top ;
+	background: transparent url(images/bg-header.png) no-repeat center bottom ;
 	background-size:auto 100%;
 }
 
 footer{
-	background: black url(images/bg-footer.png) no-repeat center top;
+	background: black url(images/bg-footer.png) no-repeat center bottom;
 	background-size:100% auto;
 	padding-top:30vw;
 }
