@@ -1,13 +1,12 @@
 $(document).ready(function(){
 
-    var anatomia=$("#anatomiasvg")
-  
-    anatomia.mouseenter(function(){
+    
+    $("#svg1").mouseenter(function(){
 
-        $(this).fadeTo("fast", 0);
+        $("#Huesos").fadeTo("fast", 1);
       });
     
-    anatomia.mouseleave(function(){
-        $(this).fadeTo("fast", 1);
+      $("#svg1").mouseleave(function(){
+        $("#Huesos").fadeTo("fast", 0);
       });
     })
