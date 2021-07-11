@@ -3,8 +3,8 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1080 2160" style="enable-background:new 0 0 1080 2160;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:url(#SVGID_2_);}
+	.st0{display:none;fill:url(#SVGID_1_);}
+	.st1{display:none;fill:url(#SVGID_2_);}
 	.st2{opacity:0.5;fill:#F8F9F5;}
 	.st3{opacity:0.6;fill:#669999;}
 	.st4{fill:#333333;}
@@ -8617,7 +8617,7 @@ XR3OptNXHbrzueGXCU9eQNruTjtyYGFbxg+GzjzwQdaNGjQGjRo0Bo0aNAaNGjQf/9k=" transform=
 			c-0.5,0.3-0.9,0.8-1.2,1.3s-0.4,1.2-0.4,1.9c0,0.7,0.1,1.4,0.4,1.9s0.7,1,1.2,1.3C759.1,499.4,759.7,499.6,760.3,499.6z"/>
 	</g>
 	
-		<image style="overflow:visible;" width="1092" height="1433" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+		<image style="display:none;overflow:visible;" width="1092" height="1433" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAACgMAABdMQAA/hz/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
 JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIBZkERAMBIgACEQEDEQH/
