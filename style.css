@@ -5,7 +5,9 @@ body{
 	background: #efefef;
 	width: 100%;
 }
-
+#texto_inicial{
+	margin-top: 5vh;
+}
 #svg1{
 	display: block;
 	margin: auto;
@@ -56,6 +58,7 @@ small, svg{
 	font-family: 'Lexend', sans-serif;
 	font-weight: 400;	
 }
+
 
 header{
 	min-height: 500px;

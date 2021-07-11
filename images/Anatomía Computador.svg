@@ -7,15 +7,15 @@
 	.st1{fill:none;}
 	.st2{font-family:'Lexend-Thin';}
 	.st3{font-size:25px;}
-	.st4{opacity:0.6;fill:none;stroke:#666;stroke-miterlimit:10;}
+	.st4{opacity:0.6;fill:none;stroke:#000000;stroke-miterlimit:10;}
 	.st5{opacity:0.6;fill:#669999;}
 </style>
 <g id="Imágen">
 	
-		<image style="overflow:visible;" width="2732" height="2048"  xlink:href="img/Zorro1.png"  transform="matrix(0.6415 0 0 0.6415 83.6963 89.2553)">
+		<image style="overflow:visible;" width="2732" height="2048" xlink:href="E4450854.png"  transform="matrix(0.6415 0 0 0.6415 83.6963 89.2553)">
 	</image>
 	
-		<image style="overflow:visible;" width="2732" height="2048" xlink:href="img/Zorro1.png" transform="matrix(0.6415 0 0 0.6415 83.6963 89.2553)">
+		<image style="overflow:visible;" width="2732" height="2048" xlink:href="E4450855.png"  transform="matrix(0.6415 0 0 0.6415 83.6963 89.2553)">
 	</image>
 </g>
 <g id="Texto_Sin_mouse">
@@ -30,33 +30,33 @@
 	<text transform="matrix(1 0 0 1 93.6807 1045.4572)"><tspan x="0" y="0" class="st2 st3">Su cola mide entre 17,5 y 25,5 cm, </tspan><tspan x="0" y="30" class="st2 st3">es relativamente corta y con un </tspan><tspan x="0" y="60" class="st2 st3">pelaje denso.</tspan></text>
 </g>
 <g id="Texto_Huesos_Hover">
-	<rect x="1647.98" y="329.66" class="st1" width="204.28" height="27.66"/>
-	<text transform="matrix(1 0 0 1 1647.9785 348.1615)" class="st2 st3">Cráneo pequeño</text>
-	<rect x="1659.76" y="560.48" class="st1" width="126.78" height="27.66"/>
-	<text transform="matrix(1 0 0 1 1659.7579 578.9789)" class="st2 st3">Mandíbula</text>
-	<rect x="1105.91" y="273.12" class="st1" width="280.06" height="25.05"/>
-	<text transform="matrix(1 0 0 1 1105.907 291.6224)" class="st2 st3">Vértebras cervicales</text>
-	<rect x="1428.22" y="720.61" class="st1" width="280.06" height="25.05"/>
-	<text transform="matrix(1 0 0 1 1428.2168 739.1126)" class="st2 st3">Húmero</text>
-	<rect x="1296.97" y="885.62" class="st1" width="280.06" height="25.05"/>
-	<text transform="matrix(1 0 0 1 1296.9735 904.121)" class="st2 st3">Radio y cúbito</text>
-	<rect x="740.47" y="803.84" class="st1" width="280.06" height="25.05"/>
-	<text transform="matrix(1 0 0 1 740.4647 822.3408)" class="st2 st3">Tibia y peroné</text>
+	<rect x="1632.03" y="284.34" class="st1" width="204.28" height="27.66"/>
+	<text transform="matrix(1 0 0 1 1632.0269 302.8406)" class="st2 st3">Cráneo pequeño</text>
+	<rect x="1659.76" y="566.5" class="st1" width="126.78" height="27.66"/>
+	<text transform="matrix(1 0 0 1 1659.7579 585.0004)" class="st2 st3">Mandíbula</text>
+	<rect x="1083.31" y="273.12" class="st1" width="280.06" height="25.05"/>
+	<text transform="matrix(1 0 0 1 1083.3093 291.6219)" class="st2 st3">Vértebras cervicales</text>
+	<rect x="1440.66" y="647.85" class="st1" width="280.06" height="25.05"/>
+	<text transform="matrix(1 0 0 1 1440.6604 666.3477)" class="st2 st3">Húmero</text>
+	<rect x="1288.19" y="879.11" class="st1" width="280.06" height="25.05"/>
+	<text transform="matrix(1 0 0 1 1288.1879 897.6067)" class="st2 st3">Radio y cúbito</text>
+	<rect x="754.92" y="796.69" class="st1" width="280.06" height="25.05"/>
+	<text transform="matrix(1 0 0 1 754.9151 815.191)" class="st2 st3">Tibia y peroné</text>
 	<rect x="911.29" y="715.92" class="st1" width="120.65" height="25.05"/>
 	<text transform="matrix(1 0 0 1 911.2905 734.4224)" class="st2 st3">Costillas</text>
-	<rect x="565.99" y="244.13" class="st1" width="280.06" height="25.05"/>
-	<text transform="matrix(1 0 0 1 565.9849 262.6287)" class="st2 st3">Vértebras lumbares</text>
-	<rect x="203.14" y="347.76" class="st1" width="280.06" height="25.05"/>
-	<text transform="matrix(1 0 0 1 203.1429 366.2625)" class="st2 st3">Vértebras Coccigeas</text>
-	<line class="st4" x1="1642.35" y1="340.49" x2="1565.77" y2="353.91"/>
-	<line class="st4" x1="1310.89" y1="649.15" x2="1419.89" y2="728.45"/>
-	<line class="st4" x1="1196.89" y1="854.06" x2="1286.64" y2="891"/>
-	<line class="st4" x1="683.58" y1="737.26" x2="728.45" y2="801.84"/>
-	<line class="st4" x1="1029.08" y1="655.82" x2="975.46" y2="709.44"/>
-	<line class="st4" x1="1365.94" y1="405.65" x2="1269.28" y2="308.99"/>
-	<line class="st4" x1="864.77" y1="372.06" x2="793.98" y2="262.63"/>
-	<line class="st4" x1="529.97" y1="408.63" x2="445.25" y2="357.32"/>
-	<line class="st4" x1="1642.35" y1="568.31" x2="1607.22" y2="533.17"/>
+	<rect x="565.99" y="257.6" class="st1" width="280.06" height="25.05"/>
+	<text transform="matrix(1 0 0 1 565.9849 276.0971)" class="st2 st3">Vértebras lumbares</text>
+	<rect x="219.46" y="322.51" class="st1" width="280.06" height="25.05"/>
+	<text transform="matrix(1 0 0 1 219.4575 341.0112)" class="st2 st3">Vértebras Coccigeas</text>
+	<line class="st4" x1="1621.61" y1="298.07" x2="1565.77" y2="353.91"/>
+	<line class="st4" x1="1314.33" y1="539.25" x2="1435.45" y2="660.37"/>
+	<line class="st4" x1="1180.89" y1="794.06" x2="1279.08" y2="892.24"/>
+	<line class="st4" x1="683.58" y1="737.26" x2="746.96" y2="800.64"/>
+	<line class="st4" x1="1019.57" y1="655.82" x2="965.96" y2="709.44"/>
+	<line class="st4" x1="1365.94" y1="405.65" x2="1268.77" y2="308.48"/>
+	<line class="st4" x1="864.77" y1="372.06" x2="776.34" y2="283.63"/>
+	<line class="st4" x1="529.97" y1="408.63" x2="461.08" y2="339.74"/>
+	<line class="st4" x1="1648.12" y1="574.07" x2="1607.22" y2="533.17"/>
 </g>
 <g id="Huesos_Hover">
 	<path class="st5" d="M1349.43,568.34c-0.81-4.79-8.26-2.36-10.64-11.55s6.55-8.53,7.57-13.98c1.02-5.45-24.27-59.12-49.06-74.11
