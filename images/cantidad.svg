@@ -25,6 +25,18 @@
       .cls-6 {
         fill: #666;
       }
+
+    .cls-2{
+    animation-name: grey-red;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes grey-red {
+    0% { fill: #cc6666; }
+    50% { fill: #666; }
+    100% { fill: #cc6666; }
+}
     </style>
     <clipPath id="clip-path">
       <rect class="cls-1" x="1626.27" y="-2439.86" width="642.19" height="1920.97"/>
