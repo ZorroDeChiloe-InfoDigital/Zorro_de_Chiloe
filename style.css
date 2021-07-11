@@ -9,7 +9,9 @@ body{
 #svg1 #Huesos{
 	display: none;
 }
-
+#svg1 #Texto_Huesos_Hover{
+	display: none;
+}
 #svg1 p{
 	font-family: 'Bitter', serif;
 	font-weight: 400;
