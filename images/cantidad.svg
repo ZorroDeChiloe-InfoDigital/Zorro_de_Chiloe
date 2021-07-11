@@ -33,9 +33,9 @@
 }
 
 @keyframes grey-red {
-    0% { fill: #cc6666; }
-    50% { fill: #666; }
-    100% { fill: #cc6666; }
+    0% { fill: #cc6666; opacity:1 }
+    50% { fill: #cc6666; opacity:0.4 }
+    100% { fill: #cc6666; opacity:0.8}
 }
     </style>
     <clipPath id="clip-path">
