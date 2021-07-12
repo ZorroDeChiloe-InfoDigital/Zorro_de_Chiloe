@@ -11,8 +11,16 @@ body{
 #svg1{
 	display: block;
 	margin: auto;
+}
+
+#titu1{
+	color: white;
+	font-family: 'Bitter', serif; ;
+}
+#titu2{color:white
 
 }
+
 a{
 	text-decoration: none;
 	color:rgb(206, 194, 194);
@@ -23,8 +31,8 @@ a:hover{
 	color: #efefef;
 }
 
-#svg1 #Huesos{
-	display: none;
+#svg1 #Huesos{u
+	display: none;i
 }
 #svg1 #Texto_Huesos_Hover{
 	display: none;
