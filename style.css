@@ -31,8 +31,8 @@ a:hover{
 	color: #efefef;
 }
 
-#svg1 #Huesos{u
-	display: none;i
+#svg1 #Huesos{
+	display: none;
 }
 #svg1 #Texto_Huesos_Hover{
 	display: none;
@@ -78,7 +78,7 @@ header{
 	min-height: 500px;
 	height: 100vh;
 	background: transparent url(images/bg-header.png) no-repeat center top ;
-	background-size:auto 100%;
+	background-size:100% auto;
 }
 
 footer{
