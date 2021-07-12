@@ -65,9 +65,7 @@ p.lead{
 		text-align: justify;
 	}
 }
-div{
-	align-items: center;
-}
+
 small, svg{
 	font-family: 'Lexend', sans-serif;
 	font-weight: 400;	
@@ -77,8 +75,8 @@ small, svg{
 header{
 	min-height: 500px;
 	height: 100vh;
-	background: transparent url(images/bg-header.png) no-repeat center top ;
-	background-size:100% auto;
+	background: #cc6666 url(images/bg-header.png) no-repeat center top ;
+	background-size:auto 100%;
 }
 
 footer{
